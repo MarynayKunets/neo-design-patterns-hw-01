@@ -1,1 +1,1 @@
-# -1_Kunets_Maryna
+# neo-design-patterns-hw-01
